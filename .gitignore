@@ -141,8 +141,7 @@ dmypy.json
 .venv/
 
 #config
-/responses.csv
+config.py
 
-/Emails.ipynb
-
-/Processing.ipynb
+/CSV
+/OLD
