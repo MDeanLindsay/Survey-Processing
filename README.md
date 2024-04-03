@@ -1,12 +1,18 @@
 # Survey Processing
 
-Foobar is a Python library for dealing with word pluralization.
+This is the processing of the results from https://YarnSurvey.com.
+
+# Getting Started 
+
+## Prerequisites
+
+- Python 3.1
 
 ## Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MDeanLindsay/Klaviyo-API.git
+   git clone https://github.com/MDeanLindsay/Survey-Processing.git
    ```
 2. Create venv.
    ```sh
